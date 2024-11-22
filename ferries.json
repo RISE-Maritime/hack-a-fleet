@@ -169,23 +169,17 @@
     "machinery": {
       "engines": [
         {
-          "type": "Scania DI16 P96",
-          "location": "aft/starboard",
-          "year_manufactured": 2011
+          "type": "Volvo Penta D16C-C/D MH HE",
+          "location": "aft",
+          "power_kw": "479",
+          "rpm": 1800,
+          "year_manufactured": 2019
         },
         {
-          "type": "Scania DI16 P96",
-          "location": "forward/starboard",
-          "year_manufactured": 2011
-        },
-        {
-          "type": "Scania DI16 P96",
-          "location": "aft/portside",
-          "year_manufactured": 2011
-        },
-        {
-          "type": "Scania DI16 P96",
-          "location": "forward/portside",
+          "type": "Volvo Penta D16C-C/D MH HE",
+          "location": "forward",
+          "power_kw": "479",
+          "rpm": 1800,
           "year_manufactured": 2011
         }
       ],
